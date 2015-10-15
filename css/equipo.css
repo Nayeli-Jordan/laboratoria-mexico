@@ -1,0 +1,28 @@
+h2,h4{
+	padding-bottom: 5%;
+	text-align: center;
+	color: #3C3C3B;
+}
+p{
+	text-align: justify;
+	line-height:20px;				/*es la altura que tiene cada línea que forma el texto (espaciado entre lineas)*/
+}
+.img-equipo{								/*Caracteristicas iconos section equipo fundador y docente*/
+	background-size: 50%;
+	height:250px;
+	margin-top: 5%;
+	background-position: 50%;
+	background-repeat: no-repeat;
+}
+.bg-equipo1{
+	background-image: url(../img/fundador/g.png);
+}
+.bg-equipo2{
+	background-image: url(../img/fundador/rap.png);
+}
+.bg-equipo3{
+	background-image: url(../img/fundador/ra.png);
+}
+.bg-equipo4{
+	background-image: url(../img/fundador/ma.png);
+}

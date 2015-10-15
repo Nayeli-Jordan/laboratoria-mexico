@@ -1,0 +1,26 @@
+h2,h4{
+	padding-bottom: 5%;
+	text-align: center;
+	color: #3C3C3B;
+}
+p{
+	text-align: justify;
+	line-height:20px;				/*es la altura que tiene cada línea que forma el texto (espaciado entre lineas)*/
+}
+.bg-gris{
+	background-image: url(../img/bg/lineas1.png);
+	height: 100%;
+	background-size:100%;
+	background-repeat: no-repeat;
+}
+.becar{								/*Se suma a las caracteristicas de .boton de common.css para crear un botón más largo*/
+	width: 100%;
+	margin-top: 5%;
+}
+.coder{
+	background: url(../img/coder1.png);
+	background-size: 30%;
+	background-position: 50%;
+	height: 150px;
+	background-repeat: no-repeat;
+}
